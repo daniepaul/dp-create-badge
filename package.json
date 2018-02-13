@@ -1,0 +1,27 @@
+{
+  "name": "dp-create-badge",
+  "version": "1.0.0",
+  "description": "Create badge based on supplied percentage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dp-create-badge": "index.js"
+  },
+  "author": "Daniel Jebakumar <daniepaul@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "keywords": [
+    "badge",
+    "create badge",
+    "coverage",
+    "npm badge"
+  ],
+  "contributors": [
+    "Daniel Jebakumar <daniepaul@gmail.com>"
+  ],
+  "repository": "https://github.com/daniepaul/dp-create-badge"
+}
